@@ -1,0 +1,13 @@
+
+{
+  "name": "product-inventory-management",
+  "version": "1.0.0",
+  "description": "Product Inventory Management REST API",
+  "main": "httpServer.js",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
